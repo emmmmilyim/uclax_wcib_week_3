@@ -1,7 +1,15 @@
 body {
-	font-family: sans-serif;
+	font-family: Courier, sans-serif;
+	font-style: normal;
+	color: brown;
+
+	 background-image: url('/images/carrot.jpg');
+	 background-color: #b39283;
+	 background-repeat: repeat;
+	 height: 300px;
+
 
 	img {
-		width: 100%;
+		width: 30%;
 	}
 }
